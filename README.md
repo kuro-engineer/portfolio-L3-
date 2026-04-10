@@ -1,4 +1,7 @@
-**portfolio/                                                                               # 本リポジトリ
+RHELサーバ構築に関する 構成図 / 手順書 / 通信要件一覧 / パッケージ一覧 を体系的にまとめた資料一式です。 
+フォルダ構成は以下の通りです。summaryフォルダの【overview】portfolio_summary.xlsxのみ確認お願いします。
+
+portfolio/                                                                                 # 本リポジトリ
 ├── document/                                                                              # 各種ドキュメント格納フォルダ
 │   ├── Design/                                                                            # 各種構成図用フォルダ
 │   │   └── 【RHEL】Environment Definition Document(L3)_v1.0.xlsx                          # ネットワーク構成図
